@@ -1,0 +1,4 @@
+﻿  Module2.cpp
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Module2\Module2\Module2.cpp(12,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Module2\Module2\Module2.cpp(16,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Module2.vcxproj -> C:\Users\winte\OneDrive\Desktop\C++ Homework\Module2\Debug\Module2.exe

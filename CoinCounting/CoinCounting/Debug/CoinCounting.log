@@ -1,0 +1,5 @@
+﻿  CoinCounting.cpp
+C:\Users\winte\OneDrive\Desktop\C++ Homework\CoinCounting\CoinCounting\CoinCounting.cpp(15,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\winte\OneDrive\Desktop\C++ Homework\CoinCounting\CoinCounting\CoinCounting.cpp(16,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\winte\OneDrive\Desktop\C++ Homework\CoinCounting\CoinCounting\CoinCounting.cpp(17,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CoinCounting.vcxproj -> C:\Users\winte\OneDrive\Desktop\C++ Homework\CoinCounting\Debug\CoinCounting.exe

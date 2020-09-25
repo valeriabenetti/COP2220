@@ -1,0 +1,12 @@
+﻿  Talent Competition.cpp
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(174,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(178,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(183,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(187,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(191,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(200,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(204,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(208,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(212,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Talent Competition\Talent Competition.cpp(216,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Talent Competition.vcxproj -> C:\Users\winte\OneDrive\Desktop\C++ Homework\Talent Competition\Debug\Talent Competition.exe
