@@ -1,0 +1,8 @@
+﻿  Module 7.2.cpp
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Module 7.2\Module 7.2\Module 7.2.cpp(28,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Module 7.2\Module 7.2\Module 7.2.cpp(31,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Module 7.2\Module 7.2\Module 7.2.cpp(34,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Module 7.2\Module 7.2\Module 7.2.cpp(37,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Module 7.2\Module 7.2\Module 7.2.cpp(40,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\winte\OneDrive\Desktop\C++ Homework\Module 7.2\Module 7.2\Module 7.2.cpp(43,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Module 7.2.vcxproj -> C:\Users\winte\OneDrive\Desktop\C++ Homework\Module 7.2\Debug\Module 7.2.exe
